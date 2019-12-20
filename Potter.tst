@@ -9,9 +9,9 @@
 \f0\fs28 \cf2 \expnd0\expndtw0\kerning0
 Harry Potter book\
 One The Philosopher's Stone (1997)\
-two\'a0The Chamber of Secrets (1998)\
-tri\'a0The Prisoner of Azkaban (1999)\
-4etyre\'a0The Goblet of Fire (2000)\
+Two\'a0The Chamber of Secrets (1998)\
+tri The Prisoner of Azkaban (1999)\
+Four\'a0The Goblet of Fire (2000)\
 Five Order of the Phoenix (2003)\
 Six Half-Blood Prince (2005)\
 Seven Deathly Hallows (2007)}
